@@ -1,15 +1,15 @@
 import re, os, sys
 
 def find_reg(base_dir, reg):
-	# Walks through directories finding matching tars for epic 55
+	# Walks through directories finding matching tars for regex
 	paths = []
 	all_files = []
 	for root, dirs, files in os.walk(base_dir):
 		if files:
 			# Finds all matching tar files in directory
 			files_match = [f for f in files if reg.match(f)]
-			all_files += files_match
 			paths += [os.path.join(root, f) for f in files_match]
+			all_files += files_match
 
 	return (paths, all_files)
 
