@@ -57,7 +57,7 @@ def extract_tars(paths):
 	return True
 	
 def main():
-	# Argument for base directory to search
+	# Argument for base directories to search
 	base_dir_55 = sys.argv[1]  # 3h91syskeag572hl6tvuovwv4d
 	base_dir_100 = sys.argv[2] # 2g1n6qdydwa9u22shpxqzp0t8m
 
