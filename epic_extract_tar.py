@@ -47,7 +47,6 @@ def extract_tars(paths):
 
 		# Creates new directory
 		new_dir = os.path.join(file_dir, file_name)
-		print(new_dir)
 		if not os.path.exists(new_dir):
 			os.makedirs(new_dir)
 
