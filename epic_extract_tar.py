@@ -53,7 +53,6 @@ def extract_tars(paths):
 
 		# Extract tars to new directory
 		os.system(f'tar xf {path} -C {new_dir}')
-		# return None
 		print('Done.')
 
 	return True
