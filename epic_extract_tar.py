@@ -46,13 +46,13 @@ def extract_tars(paths):
 		file_name = path.split(os.sep)[-1].split('.')[0]
 
 		# Creates new directory
-		new_dir = os.path.join(file_dir, file_name)
+		new_dir = os.path.join(file_dir, file_name.split('_')[1])
 		if not os.path.exists(new_dir):
 			os.makedirs(new_dir)
 
 		# Extract tars to new directory
 		os.system(f'tar xf {path} -C {new_dir}')
-		# return None
+		return None
 
 	return True
 	
