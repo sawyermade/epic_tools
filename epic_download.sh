@@ -13,5 +13,3 @@ temp_flag=true
 while $temp_flag; do
 	curl -LOvC - https://danielsawyer.com/epic_kitchens/masks/3l8eci2oqgst92n14w2yqi5ytu.zip && temp_flag=false
 done
-
-
