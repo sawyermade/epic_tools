@@ -1,4 +1,4 @@
-import re, os, sys, subprocess
+import re, os, sys, tarfile
 
 def find_reg(base_dir, reg):
 	# Walks through directories finding all matching files for regex
@@ -52,11 +52,12 @@ def extract_tars(paths):
 			os.makedirs(new_dir)
 
 		# Extract tars to new directory
-		output = subprocess.check_output(f'tar xf {path} -C {new_dir}', shell=True)
-		print(output)
+		tar = tarfile.open(path)
+		tar.extractall(new_dir)
+		print('Done.')
 		return None
 		# os.system(f'tar xf {path} -C {new_dir}')
-		print('Done.')
+		# print('Done.')
 
 	return True
 	
@@ -99,8 +100,9 @@ def main():
 	tar_paths_55.sort()
 	tar_paths_100.sort()
 	extract_tars(tar_paths_55)
+	print('\nCompleted Epic 55.\n')
 	extract_tars(tar_paths_100)
-	print('\nComplete.')
+	print('\nCompleted Epic 100\n.')
 
 if __name__ == '__main__':
 	main()
