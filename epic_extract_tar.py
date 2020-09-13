@@ -54,6 +54,7 @@ def extract_tars(paths):
 		# Extract tars to new directory
 		tar = tarfile.open(path)
 		tar.extractall(new_dir)
+		tar.close()
 		print('Done.')
 		return None
 		# os.system(f'tar xf {path} -C {new_dir}')
