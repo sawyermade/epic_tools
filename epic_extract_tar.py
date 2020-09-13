@@ -97,6 +97,7 @@ def main():
 	tar_paths_100.sort()
 	extract_tars(tar_paths_55)
 	extract_tars(tar_paths_100)
+	print('\nComplete.')
 
 if __name__ == '__main__':
 	main()
