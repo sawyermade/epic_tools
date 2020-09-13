@@ -54,10 +54,8 @@ def extract_tars(paths):
 		# Extract tars to new directory
 		subprocess.run(['tar', '-xf', path, '-C', new_dir])
 		print('Done.')
-		return None
-		# os.system(f'tar xf {path} -C {new_dir}')
-		# print('Done.')
-
+		# return None
+	
 	return True
 	
 def main():
