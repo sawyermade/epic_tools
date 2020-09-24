@@ -4,12 +4,13 @@ def find_reg(base_dir, reg):
 	# Walks through directories finding all matching files for regex
 	paths = []
 	all_files = []
-	for root, dirs, files in os.walk(base_dir):
-		if files:
-			# Finds all matching files in directory
-			files_match = [f for f in files if reg.match(f)]
-			paths += [os.path.join(root, f) for f in files_match]
-			all_files += files_match
+	if base_dir is not None:
+		for root, dirs, files in os.walk(base_dir):
+			if files:
+				# Finds all matching files in directory
+				files_match = [f for f in files if reg.match(f)]
+				paths += [os.path.join(root, f) for f in files_match]
+				all_files += files_match
 
 	return (paths, all_files)
 
@@ -62,6 +63,12 @@ def main():
 	# Argument for base directories to search
 	base_dir_55 = sys.argv[1]  # 3h91syskeag572hl6tvuovwv4d
 	base_dir_100 = sys.argv[2] # 2g1n6qdydwa9u22shpxqzp0t8m
+	
+	# Checks for None/none
+	if base_dir_55.lower() == 'none': base_dir_55 = None
+	if base_dir_100.lower() == 'none': base_dir_100 = None
+	#print(base_dir_55, base_dir_100)
+	#sys.exit(0)
 
 	# Find all tar files
 	tar_epic_55, tar_epic_100 = find_tars(base_dir_55, base_dir_100)
@@ -69,6 +76,7 @@ def main():
 	tar_paths_100, tar_files_100 = tar_epic_100 
 	print(f'num epic 55 tar files = {len(tar_paths_55)}')
 	print(f'num epic 100 tar files = {len(tar_paths_100)}')
+	#sys.exit(0)
 
 	# Find all mp4 files
 	mp4_epic_55, mp4_epic_100 = find_mp4s(base_dir_55, base_dir_100)
@@ -76,6 +84,7 @@ def main():
 	mp4_paths_100, mp4_files_100 = mp4_epic_100
 	print(f'num epic 55 mp4 files = {len(mp4_paths_55)}')
 	print(f'num epic 100 mp4 files = {len(mp4_paths_100)}')
+	#sys.exit(0)
 
 	# Sorts and finds missing for epic 55
 	tar_files_55 = [f.split('.')[0] for f in tar_files_55]
@@ -92,6 +101,7 @@ def main():
 	mp4_files_100.sort()
 	missing_files_100 = [f for f in tar_files_100 if f not in mp4_files_100]
 	print(f'missing epic 100 videos:\n {missing_files_100}')
+	#sys.exit(0)	
 
 	# Extract tars
 	tar_paths_55.sort()
