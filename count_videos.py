@@ -23,6 +23,7 @@ def main():
 	reg_55 = re.compile(reg_str_55)
 	_, mp4_files = find_reg(base_dir, reg_55)
 
+	# Print number of videos
 	print(f'\nNumber of MP4 Files in {base_dir}: {len(mp4_files)}\n')
 
 if __name__ == '__main__':
