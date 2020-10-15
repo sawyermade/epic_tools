@@ -1,2 +1,9 @@
 # My Epic Kitchens Tools
-Coming soon...
+
+## Download Datasets data\_setup/downloads
+```
+# Go to download directory
+cd data_setup/download
+```
+
+## Copy and extract tars data\_setup/
