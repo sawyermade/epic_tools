@@ -37,7 +37,7 @@ def sort_tars(tar_paths):
 		modal, tt = path_split[-4:-2]
 
 		# Checks if RGB or Flow
-		if model == 'rgb':
+		if modal == 'rgb':
 			if tt == 'test':
 				rgb_test.append(path)
 
