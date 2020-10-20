@@ -25,7 +25,7 @@ def find_tars(base_dir, reg_str):
 
 def del_tars(tar_paths):
 	for path in tar_paths:
-		# Extract tars to new directory
+		# Deletes tars
 		print(f'tar: {path}', end='... ')
 		cmd_list = ['rm', path]
 		subprocess.run(cmd_list)
