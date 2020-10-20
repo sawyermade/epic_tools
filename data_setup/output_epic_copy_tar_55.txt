@@ -1,3472 +1,3472 @@
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P01/P01_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P01/P01_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P01/P01_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P01/P01_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P01/P01_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P02/P02_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P02
+copying to: /home/smc/epic-data/data_55/raw/rgb/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P02/P02_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P02
+copying to: /home/smc/epic-data/data_55/raw/rgb/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P02/P02_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P02
+copying to: /home/smc/epic-data/data_55/raw/rgb/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P02/P02_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P02
+copying to: /home/smc/epic-data/data_55/raw/rgb/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P03/P03_21.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P03/P03_22.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P03/P03_23.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P03/P03_24.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P03/P03_25.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P03/P03_26.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P04/P04_24.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P04/P04_25.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P04/P04_26.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P04/P04_27.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P04/P04_28.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P04/P04_29.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P04/P04_30.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P04/P04_31.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P04/P04_32.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P04/P04_33.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P05/P05_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P05
+copying to: /home/smc/epic-data/data_55/raw/rgb/P05
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P05/P05_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P05
+copying to: /home/smc/epic-data/data_55/raw/rgb/P05
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P06/P06_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P06
+copying to: /home/smc/epic-data/data_55/raw/rgb/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P06/P06_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P06
+copying to: /home/smc/epic-data/data_55/raw/rgb/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P06/P06_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P06
+copying to: /home/smc/epic-data/data_55/raw/rgb/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P06/P06_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P06
+copying to: /home/smc/epic-data/data_55/raw/rgb/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P06/P06_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P06
+copying to: /home/smc/epic-data/data_55/raw/rgb/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P07/P07_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P07
+copying to: /home/smc/epic-data/data_55/raw/rgb/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P07/P07_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P07
+copying to: /home/smc/epic-data/data_55/raw/rgb/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P07/P07_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P07
+copying to: /home/smc/epic-data/data_55/raw/rgb/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P07/P07_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P07
+copying to: /home/smc/epic-data/data_55/raw/rgb/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P07/P07_16.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P07
+copying to: /home/smc/epic-data/data_55/raw/rgb/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P07/P07_17.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P07
+copying to: /home/smc/epic-data/data_55/raw/rgb/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P07/P07_18.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P07
+copying to: /home/smc/epic-data/data_55/raw/rgb/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P08/P08_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P08/P08_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P08/P08_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P08/P08_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P08/P08_16.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P08/P08_17.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P09/P09_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P09
+copying to: /home/smc/epic-data/data_55/raw/rgb/P09
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P09/P09_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P09
+copying to: /home/smc/epic-data/data_55/raw/rgb/P09
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P09/P09_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P09
+copying to: /home/smc/epic-data/data_55/raw/rgb/P09
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P09/P09_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P09
+copying to: /home/smc/epic-data/data_55/raw/rgb/P09
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P09/P09_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P09
+copying to: /home/smc/epic-data/data_55/raw/rgb/P09
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P09/P09_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P09
+copying to: /home/smc/epic-data/data_55/raw/rgb/P09
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P09/P09_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P09
+copying to: /home/smc/epic-data/data_55/raw/rgb/P09
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P09/P09_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P09
+copying to: /home/smc/epic-data/data_55/raw/rgb/P09
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P10/P10_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P10
+copying to: /home/smc/epic-data/data_55/raw/rgb/P10
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_16.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_17.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_18.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_19.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_20.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_21.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_22.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_23.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P11/P11_24.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P11
+copying to: /home/smc/epic-data/data_55/raw/rgb/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P12/P12_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P12
+copying to: /home/smc/epic-data/data_55/raw/rgb/P12
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P12/P12_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P12
+copying to: /home/smc/epic-data/data_55/raw/rgb/P12
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P13/P13_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P13
+copying to: /home/smc/epic-data/data_55/raw/rgb/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P13/P13_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P13
+copying to: /home/smc/epic-data/data_55/raw/rgb/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P13/P13_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P13
+copying to: /home/smc/epic-data/data_55/raw/rgb/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P14/P14_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P14
+copying to: /home/smc/epic-data/data_55/raw/rgb/P14
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P14/P14_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P14
+copying to: /home/smc/epic-data/data_55/raw/rgb/P14
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P15/P15_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P15
+copying to: /home/smc/epic-data/data_55/raw/rgb/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P15/P15_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P15
+copying to: /home/smc/epic-data/data_55/raw/rgb/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P15/P15_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P15
+copying to: /home/smc/epic-data/data_55/raw/rgb/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P16/P16_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P16
+copying to: /home/smc/epic-data/data_55/raw/rgb/P16
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P17/P17_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P17
+copying to: /home/smc/epic-data/data_55/raw/rgb/P17
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P18/P18_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P18
+copying to: /home/smc/epic-data/data_55/raw/rgb/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P18/P18_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P18
+copying to: /home/smc/epic-data/data_55/raw/rgb/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P18/P18_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P18
+copying to: /home/smc/epic-data/data_55/raw/rgb/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P18/P18_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P18
+copying to: /home/smc/epic-data/data_55/raw/rgb/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P18/P18_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P18
+copying to: /home/smc/epic-data/data_55/raw/rgb/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P18/P18_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P18
+copying to: /home/smc/epic-data/data_55/raw/rgb/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P18/P18_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P18
+copying to: /home/smc/epic-data/data_55/raw/rgb/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P18/P18_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P18
+copying to: /home/smc/epic-data/data_55/raw/rgb/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P18/P18_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P18
+copying to: /home/smc/epic-data/data_55/raw/rgb/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P18/P18_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P18
+copying to: /home/smc/epic-data/data_55/raw/rgb/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P18/P18_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P18
+copying to: /home/smc/epic-data/data_55/raw/rgb/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P18/P18_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P18
+copying to: /home/smc/epic-data/data_55/raw/rgb/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P19/P19_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P19
+copying to: /home/smc/epic-data/data_55/raw/rgb/P19
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P19/P19_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P19
+copying to: /home/smc/epic-data/data_55/raw/rgb/P19
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P20/P20_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P20
+copying to: /home/smc/epic-data/data_55/raw/rgb/P20
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P20/P20_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P20
+copying to: /home/smc/epic-data/data_55/raw/rgb/P20
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P20/P20_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P20
+copying to: /home/smc/epic-data/data_55/raw/rgb/P20
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P21/P21_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P21
+copying to: /home/smc/epic-data/data_55/raw/rgb/P21
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P22/P22_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P22
+copying to: /home/smc/epic-data/data_55/raw/rgb/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P22/P22_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P22
+copying to: /home/smc/epic-data/data_55/raw/rgb/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P22/P22_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P22
+copying to: /home/smc/epic-data/data_55/raw/rgb/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P22/P22_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P22
+copying to: /home/smc/epic-data/data_55/raw/rgb/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P23/P23_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P23
+copying to: /home/smc/epic-data/data_55/raw/rgb/P23
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P24/P24_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P24
+copying to: /home/smc/epic-data/data_55/raw/rgb/P24
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P25/P25_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P25
+copying to: /home/smc/epic-data/data_55/raw/rgb/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P25/P25_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P25
+copying to: /home/smc/epic-data/data_55/raw/rgb/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P25/P25_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P25
+copying to: /home/smc/epic-data/data_55/raw/rgb/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P26/P26_30.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P26/P26_31.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P26/P26_32.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P26/P26_33.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P26/P26_34.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P26/P26_35.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P26/P26_36.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P26/P26_37.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P26/P26_38.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P26/P26_39.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P26/P26_40.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P26/P26_41.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P27/P27_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P27
+copying to: /home/smc/epic-data/data_55/raw/rgb/P27
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P28/P28_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P28/P28_16.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P28/P28_17.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P28/P28_18.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P28/P28_19.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P28/P28_20.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P28/P28_21.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P28/P28_22.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P28/P28_23.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P28/P28_24.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P28/P28_25.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P28/P28_26.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P29/P29_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P29
+copying to: /home/smc/epic-data/data_55/raw/rgb/P29
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P29/P29_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P29
+copying to: /home/smc/epic-data/data_55/raw/rgb/P29
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P30/P30_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P30
+copying to: /home/smc/epic-data/data_55/raw/rgb/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P30/P30_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P30
+copying to: /home/smc/epic-data/data_55/raw/rgb/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P30/P30_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P30
+copying to: /home/smc/epic-data/data_55/raw/rgb/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P31/P31_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P31
+copying to: /home/smc/epic-data/data_55/raw/rgb/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P31/P31_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P31
+copying to: /home/smc/epic-data/data_55/raw/rgb/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P31/P31_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P31
+copying to: /home/smc/epic-data/data_55/raw/rgb/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P32/P32_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P32
+copying to: /home/smc/epic-data/data_55/raw/rgb/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P32/P32_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P32
+copying to: /home/smc/epic-data/data_55/raw/rgb/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P32/P32_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P32
+copying to: /home/smc/epic-data/data_55/raw/rgb/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P32/P32_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P32
+copying to: /home/smc/epic-data/data_55/raw/rgb/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P32/P32_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P32
+copying to: /home/smc/epic-data/data_55/raw/rgb/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P32/P32_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P32
+copying to: /home/smc/epic-data/data_55/raw/rgb/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P32/P32_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P32
+copying to: /home/smc/epic-data/data_55/raw/rgb/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P32/P32_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P32
+copying to: /home/smc/epic-data/data_55/raw/rgb/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P32/P32_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P32
+copying to: /home/smc/epic-data/data_55/raw/rgb/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/test/P32/P32_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P32
+copying to: /home/smc/epic-data/data_55/raw/rgb/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P01/P01_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P01/P01_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P01/P01_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P01/P01_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P01/P01_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P01/P01_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P01/P01_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P01/P01_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P01/P01_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P01/P01_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P01/P01_16.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P01/P01_17.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P01/P01_18.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P01/P01_19.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P01
+copying to: /home/smc/epic-data/data_55/raw/rgb/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P02/P02_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P02
+copying to: /home/smc/epic-data/data_55/raw/rgb/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P02/P02_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P02
+copying to: /home/smc/epic-data/data_55/raw/rgb/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P02/P02_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P02
+copying to: /home/smc/epic-data/data_55/raw/rgb/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P02/P02_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P02
+copying to: /home/smc/epic-data/data_55/raw/rgb/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P02/P02_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P02
+copying to: /home/smc/epic-data/data_55/raw/rgb/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P02/P02_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P02
+copying to: /home/smc/epic-data/data_55/raw/rgb/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P02/P02_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P02
+copying to: /home/smc/epic-data/data_55/raw/rgb/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P02/P02_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P02
+copying to: /home/smc/epic-data/data_55/raw/rgb/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P02/P02_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P02
+copying to: /home/smc/epic-data/data_55/raw/rgb/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P02/P02_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P02
+copying to: /home/smc/epic-data/data_55/raw/rgb/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P02/P02_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P02
+copying to: /home/smc/epic-data/data_55/raw/rgb/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_16.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_17.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_18.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_19.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_20.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_27.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P03/P03_28.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P03
+copying to: /home/smc/epic-data/data_55/raw/rgb/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_16.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_17.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_18.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_19.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_20.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_21.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_22.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P04/P04_23.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P04
+copying to: /home/smc/epic-data/data_55/raw/rgb/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P05/P05_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P05
+copying to: /home/smc/epic-data/data_55/raw/rgb/P05
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P05/P05_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P05
+copying to: /home/smc/epic-data/data_55/raw/rgb/P05
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P05/P05_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P05
+copying to: /home/smc/epic-data/data_55/raw/rgb/P05
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P05/P05_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P05
+copying to: /home/smc/epic-data/data_55/raw/rgb/P05
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P05/P05_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P05
+copying to: /home/smc/epic-data/data_55/raw/rgb/P05
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P05/P05_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P05
+copying to: /home/smc/epic-data/data_55/raw/rgb/P05
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P05/P05_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P05
+copying to: /home/smc/epic-data/data_55/raw/rgb/P05
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P06/P06_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P06
+copying to: /home/smc/epic-data/data_55/raw/rgb/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P06/P06_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P06
+copying to: /home/smc/epic-data/data_55/raw/rgb/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P06/P06_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P06
+copying to: /home/smc/epic-data/data_55/raw/rgb/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P06/P06_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P06
+copying to: /home/smc/epic-data/data_55/raw/rgb/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P06/P06_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P06
+copying to: /home/smc/epic-data/data_55/raw/rgb/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P06/P06_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P06
+copying to: /home/smc/epic-data/data_55/raw/rgb/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P06/P06_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P06
+copying to: /home/smc/epic-data/data_55/raw/rgb/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P06/P06_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P06
+copying to: /home/smc/epic-data/data_55/raw/rgb/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P06/P06_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P06
+copying to: /home/smc/epic-data/data_55/raw/rgb/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P07/P07_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P07
+copying to: /home/smc/epic-data/data_55/raw/rgb/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P07/P07_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P07
+copying to: /home/smc/epic-data/data_55/raw/rgb/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P07/P07_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P07
+copying to: /home/smc/epic-data/data_55/raw/rgb/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P07/P07_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P07
+copying to: /home/smc/epic-data/data_55/raw/rgb/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P07/P07_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P07
+copying to: /home/smc/epic-data/data_55/raw/rgb/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P07/P07_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P07
+copying to: /home/smc/epic-data/data_55/raw/rgb/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P07/P07_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P07
+copying to: /home/smc/epic-data/data_55/raw/rgb/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P07/P07_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P07
+copying to: /home/smc/epic-data/data_55/raw/rgb/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P07/P07_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P07
+copying to: /home/smc/epic-data/data_55/raw/rgb/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P07/P07_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P07
+copying to: /home/smc/epic-data/data_55/raw/rgb/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P07/P07_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P07
+copying to: /home/smc/epic-data/data_55/raw/rgb/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_18.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_19.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_20.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_21.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_22.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_23.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_24.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_25.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_26.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_27.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P08/P08_28.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P08
+copying to: /home/smc/epic-data/data_55/raw/rgb/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P10/P10_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P10
+copying to: /home/smc/epic-data/data_55/raw/rgb/P10
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P10/P10_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P10
+copying to: /home/smc/epic-data/data_55/raw/rgb/P10
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P10/P10_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P10
+copying to: /home/smc/epic-data/data_55/raw/rgb/P10
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P12/P12_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P12
+copying to: /home/smc/epic-data/data_55/raw/rgb/P12
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P12/P12_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P12
+copying to: /home/smc/epic-data/data_55/raw/rgb/P12
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P12/P12_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P12
+copying to: /home/smc/epic-data/data_55/raw/rgb/P12
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P12/P12_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P12
+copying to: /home/smc/epic-data/data_55/raw/rgb/P12
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P12/P12_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P12
+copying to: /home/smc/epic-data/data_55/raw/rgb/P12
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P12/P12_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P12
+copying to: /home/smc/epic-data/data_55/raw/rgb/P12
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P13/P13_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P13
+copying to: /home/smc/epic-data/data_55/raw/rgb/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P13/P13_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P13
+copying to: /home/smc/epic-data/data_55/raw/rgb/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P13/P13_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P13
+copying to: /home/smc/epic-data/data_55/raw/rgb/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P13/P13_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P13
+copying to: /home/smc/epic-data/data_55/raw/rgb/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P13/P13_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P13
+copying to: /home/smc/epic-data/data_55/raw/rgb/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P13/P13_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P13
+copying to: /home/smc/epic-data/data_55/raw/rgb/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P13/P13_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P13
+copying to: /home/smc/epic-data/data_55/raw/rgb/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P14/P14_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P14
+copying to: /home/smc/epic-data/data_55/raw/rgb/P14
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P14/P14_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P14
+copying to: /home/smc/epic-data/data_55/raw/rgb/P14
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P14/P14_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P14
+copying to: /home/smc/epic-data/data_55/raw/rgb/P14
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P14/P14_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P14
+copying to: /home/smc/epic-data/data_55/raw/rgb/P14
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P14/P14_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P14
+copying to: /home/smc/epic-data/data_55/raw/rgb/P14
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P14/P14_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P14
+copying to: /home/smc/epic-data/data_55/raw/rgb/P14
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P14/P14_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P14
+copying to: /home/smc/epic-data/data_55/raw/rgb/P14
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P15/P15_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P15
+copying to: /home/smc/epic-data/data_55/raw/rgb/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P15/P15_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P15
+copying to: /home/smc/epic-data/data_55/raw/rgb/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P15/P15_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P15
+copying to: /home/smc/epic-data/data_55/raw/rgb/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P15/P15_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P15
+copying to: /home/smc/epic-data/data_55/raw/rgb/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P15/P15_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P15
+copying to: /home/smc/epic-data/data_55/raw/rgb/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P15/P15_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P15
+copying to: /home/smc/epic-data/data_55/raw/rgb/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P15/P15_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P15
+copying to: /home/smc/epic-data/data_55/raw/rgb/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P15/P15_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P15
+copying to: /home/smc/epic-data/data_55/raw/rgb/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P15/P15_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P15
+copying to: /home/smc/epic-data/data_55/raw/rgb/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P15/P15_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P15
+copying to: /home/smc/epic-data/data_55/raw/rgb/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P16/P16_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P16
+copying to: /home/smc/epic-data/data_55/raw/rgb/P16
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P16/P16_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P16
+copying to: /home/smc/epic-data/data_55/raw/rgb/P16
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P16/P16_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P16
+copying to: /home/smc/epic-data/data_55/raw/rgb/P16
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P17/P17_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P17
+copying to: /home/smc/epic-data/data_55/raw/rgb/P17
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P17/P17_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P17
+copying to: /home/smc/epic-data/data_55/raw/rgb/P17
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P17/P17_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P17
+copying to: /home/smc/epic-data/data_55/raw/rgb/P17
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P19/P19_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P19
+copying to: /home/smc/epic-data/data_55/raw/rgb/P19
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P19/P19_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P19
+copying to: /home/smc/epic-data/data_55/raw/rgb/P19
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P19/P19_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P19
+copying to: /home/smc/epic-data/data_55/raw/rgb/P19
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P19/P19_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P19
+copying to: /home/smc/epic-data/data_55/raw/rgb/P19
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P20/P20_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P20
+copying to: /home/smc/epic-data/data_55/raw/rgb/P20
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P20/P20_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P20
+copying to: /home/smc/epic-data/data_55/raw/rgb/P20
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P20/P20_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P20
+copying to: /home/smc/epic-data/data_55/raw/rgb/P20
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P20/P20_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P20
+copying to: /home/smc/epic-data/data_55/raw/rgb/P20
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P21/P21_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P21
+copying to: /home/smc/epic-data/data_55/raw/rgb/P21
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P21/P21_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P21
+copying to: /home/smc/epic-data/data_55/raw/rgb/P21
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P21/P21_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P21
+copying to: /home/smc/epic-data/data_55/raw/rgb/P21
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P22/P22_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P22
+copying to: /home/smc/epic-data/data_55/raw/rgb/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P22/P22_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P22
+copying to: /home/smc/epic-data/data_55/raw/rgb/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P22/P22_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P22
+copying to: /home/smc/epic-data/data_55/raw/rgb/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P22/P22_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P22
+copying to: /home/smc/epic-data/data_55/raw/rgb/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P22/P22_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P22
+copying to: /home/smc/epic-data/data_55/raw/rgb/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P22/P22_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P22
+copying to: /home/smc/epic-data/data_55/raw/rgb/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P22/P22_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P22
+copying to: /home/smc/epic-data/data_55/raw/rgb/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P22/P22_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P22
+copying to: /home/smc/epic-data/data_55/raw/rgb/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P22/P22_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P22
+copying to: /home/smc/epic-data/data_55/raw/rgb/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P22/P22_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P22
+copying to: /home/smc/epic-data/data_55/raw/rgb/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P22/P22_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P22
+copying to: /home/smc/epic-data/data_55/raw/rgb/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P22/P22_16.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P22
+copying to: /home/smc/epic-data/data_55/raw/rgb/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P22/P22_17.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P22
+copying to: /home/smc/epic-data/data_55/raw/rgb/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P23/P23_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P23
+copying to: /home/smc/epic-data/data_55/raw/rgb/P23
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P23/P23_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P23
+copying to: /home/smc/epic-data/data_55/raw/rgb/P23
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P23/P23_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P23
+copying to: /home/smc/epic-data/data_55/raw/rgb/P23
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P23/P23_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P23
+copying to: /home/smc/epic-data/data_55/raw/rgb/P23
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P24/P24_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P24
+copying to: /home/smc/epic-data/data_55/raw/rgb/P24
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P24/P24_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P24
+copying to: /home/smc/epic-data/data_55/raw/rgb/P24
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P24/P24_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P24
+copying to: /home/smc/epic-data/data_55/raw/rgb/P24
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P24/P24_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P24
+copying to: /home/smc/epic-data/data_55/raw/rgb/P24
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P24/P24_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P24
+copying to: /home/smc/epic-data/data_55/raw/rgb/P24
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P24/P24_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P24
+copying to: /home/smc/epic-data/data_55/raw/rgb/P24
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P24/P24_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P24
+copying to: /home/smc/epic-data/data_55/raw/rgb/P24
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P24/P24_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P24
+copying to: /home/smc/epic-data/data_55/raw/rgb/P24
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P25/P25_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P25
+copying to: /home/smc/epic-data/data_55/raw/rgb/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P25/P25_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P25
+copying to: /home/smc/epic-data/data_55/raw/rgb/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P25/P25_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P25
+copying to: /home/smc/epic-data/data_55/raw/rgb/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P25/P25_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P25
+copying to: /home/smc/epic-data/data_55/raw/rgb/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P25/P25_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P25
+copying to: /home/smc/epic-data/data_55/raw/rgb/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P25/P25_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P25
+copying to: /home/smc/epic-data/data_55/raw/rgb/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P25/P25_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P25
+copying to: /home/smc/epic-data/data_55/raw/rgb/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P25/P25_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P25
+copying to: /home/smc/epic-data/data_55/raw/rgb/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P25/P25_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P25
+copying to: /home/smc/epic-data/data_55/raw/rgb/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_16.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_17.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_18.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_19.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_20.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_21.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_22.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_23.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_24.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_25.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_26.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_27.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_28.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P26/P26_29.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P26
+copying to: /home/smc/epic-data/data_55/raw/rgb/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P27/P27_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P27
+copying to: /home/smc/epic-data/data_55/raw/rgb/P27
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P27/P27_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P27
+copying to: /home/smc/epic-data/data_55/raw/rgb/P27
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P27/P27_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P27
+copying to: /home/smc/epic-data/data_55/raw/rgb/P27
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P27/P27_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P27
+copying to: /home/smc/epic-data/data_55/raw/rgb/P27
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P27/P27_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P27
+copying to: /home/smc/epic-data/data_55/raw/rgb/P27
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P27/P27_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P27
+copying to: /home/smc/epic-data/data_55/raw/rgb/P27
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P28/P28_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P28/P28_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P28/P28_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P28/P28_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P28/P28_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P28/P28_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P28/P28_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P28/P28_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P28/P28_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P28/P28_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P28/P28_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P28/P28_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P28/P28_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P28/P28_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P28
+copying to: /home/smc/epic-data/data_55/raw/rgb/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P29/P29_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P29
+copying to: /home/smc/epic-data/data_55/raw/rgb/P29
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P29/P29_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P29
+copying to: /home/smc/epic-data/data_55/raw/rgb/P29
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P29/P29_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P29
+copying to: /home/smc/epic-data/data_55/raw/rgb/P29
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P29/P29_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P29
+copying to: /home/smc/epic-data/data_55/raw/rgb/P29
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P30/P30_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P30
+copying to: /home/smc/epic-data/data_55/raw/rgb/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P30/P30_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P30
+copying to: /home/smc/epic-data/data_55/raw/rgb/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P30/P30_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P30
+copying to: /home/smc/epic-data/data_55/raw/rgb/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P30/P30_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P30
+copying to: /home/smc/epic-data/data_55/raw/rgb/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P30/P30_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P30
+copying to: /home/smc/epic-data/data_55/raw/rgb/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P30/P30_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P30
+copying to: /home/smc/epic-data/data_55/raw/rgb/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P30/P30_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P30
+copying to: /home/smc/epic-data/data_55/raw/rgb/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P30/P30_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P30
+copying to: /home/smc/epic-data/data_55/raw/rgb/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P31/P31_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P31
+copying to: /home/smc/epic-data/data_55/raw/rgb/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P31/P31_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P31
+copying to: /home/smc/epic-data/data_55/raw/rgb/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P31/P31_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P31
+copying to: /home/smc/epic-data/data_55/raw/rgb/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P31/P31_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P31
+copying to: /home/smc/epic-data/data_55/raw/rgb/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P31/P31_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P31
+copying to: /home/smc/epic-data/data_55/raw/rgb/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P31/P31_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P31
+copying to: /home/smc/epic-data/data_55/raw/rgb/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P31/P31_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P31
+copying to: /home/smc/epic-data/data_55/raw/rgb/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P31/P31_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P31
+copying to: /home/smc/epic-data/data_55/raw/rgb/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P31/P31_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P31
+copying to: /home/smc/epic-data/data_55/raw/rgb/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P31/P31_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P31
+copying to: /home/smc/epic-data/data_55/raw/rgb/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/rgb/train/P31/P31_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/rgb/P31
+copying to: /home/smc/epic-data/data_55/raw/rgb/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P01/P01_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P01/P01_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P01/P01_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P01/P01_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P01/P01_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P02/P02_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P02
+copying to: /home/smc/epic-data/data_55/raw/flow/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P02/P02_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P02
+copying to: /home/smc/epic-data/data_55/raw/flow/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P02/P02_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P02
+copying to: /home/smc/epic-data/data_55/raw/flow/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P02/P02_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P02
+copying to: /home/smc/epic-data/data_55/raw/flow/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P03/P03_21.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P03/P03_22.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P03/P03_23.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P03/P03_24.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P03/P03_25.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P03/P03_26.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P04/P04_24.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P04/P04_25.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P04/P04_26.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P04/P04_27.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P04/P04_28.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P04/P04_29.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P04/P04_30.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P04/P04_31.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P04/P04_32.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P04/P04_33.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P05/P05_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P05
+copying to: /home/smc/epic-data/data_55/raw/flow/P05
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P05/P05_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P05
+copying to: /home/smc/epic-data/data_55/raw/flow/P05
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P06/P06_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P06
+copying to: /home/smc/epic-data/data_55/raw/flow/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P06/P06_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P06
+copying to: /home/smc/epic-data/data_55/raw/flow/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P06/P06_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P06
+copying to: /home/smc/epic-data/data_55/raw/flow/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P06/P06_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P06
+copying to: /home/smc/epic-data/data_55/raw/flow/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P06/P06_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P06
+copying to: /home/smc/epic-data/data_55/raw/flow/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P07/P07_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P07
+copying to: /home/smc/epic-data/data_55/raw/flow/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P07/P07_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P07
+copying to: /home/smc/epic-data/data_55/raw/flow/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P07/P07_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P07
+copying to: /home/smc/epic-data/data_55/raw/flow/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P07/P07_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P07
+copying to: /home/smc/epic-data/data_55/raw/flow/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P07/P07_16.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P07
+copying to: /home/smc/epic-data/data_55/raw/flow/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P07/P07_17.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P07
+copying to: /home/smc/epic-data/data_55/raw/flow/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P07/P07_18.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P07
+copying to: /home/smc/epic-data/data_55/raw/flow/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P08/P08_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P08/P08_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P08/P08_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P08/P08_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P08/P08_16.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P08/P08_17.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P09/P09_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P09
+copying to: /home/smc/epic-data/data_55/raw/flow/P09
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P09/P09_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P09
+copying to: /home/smc/epic-data/data_55/raw/flow/P09
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P09/P09_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P09
+copying to: /home/smc/epic-data/data_55/raw/flow/P09
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P09/P09_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P09
+copying to: /home/smc/epic-data/data_55/raw/flow/P09
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P09/P09_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P09
+copying to: /home/smc/epic-data/data_55/raw/flow/P09
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P09/P09_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P09
+copying to: /home/smc/epic-data/data_55/raw/flow/P09
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P09/P09_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P09
+copying to: /home/smc/epic-data/data_55/raw/flow/P09
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P09/P09_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P09
+copying to: /home/smc/epic-data/data_55/raw/flow/P09
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P10/P10_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P10
+copying to: /home/smc/epic-data/data_55/raw/flow/P10
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_16.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_17.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_18.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_19.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_20.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_21.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_22.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_23.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P11/P11_24.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P11
+copying to: /home/smc/epic-data/data_55/raw/flow/P11
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P12/P12_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P12
+copying to: /home/smc/epic-data/data_55/raw/flow/P12
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P12/P12_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P12
+copying to: /home/smc/epic-data/data_55/raw/flow/P12
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P13/P13_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P13
+copying to: /home/smc/epic-data/data_55/raw/flow/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P13/P13_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P13
+copying to: /home/smc/epic-data/data_55/raw/flow/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P13/P13_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P13
+copying to: /home/smc/epic-data/data_55/raw/flow/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P14/P14_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P14
+copying to: /home/smc/epic-data/data_55/raw/flow/P14
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P14/P14_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P14
+copying to: /home/smc/epic-data/data_55/raw/flow/P14
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P15/P15_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P15
+copying to: /home/smc/epic-data/data_55/raw/flow/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P15/P15_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P15
+copying to: /home/smc/epic-data/data_55/raw/flow/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P15/P15_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P15
+copying to: /home/smc/epic-data/data_55/raw/flow/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P16/P16_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P16
+copying to: /home/smc/epic-data/data_55/raw/flow/P16
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P17/P17_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P17
+copying to: /home/smc/epic-data/data_55/raw/flow/P17
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P18/P18_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P18
+copying to: /home/smc/epic-data/data_55/raw/flow/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P18/P18_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P18
+copying to: /home/smc/epic-data/data_55/raw/flow/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P18/P18_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P18
+copying to: /home/smc/epic-data/data_55/raw/flow/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P18/P18_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P18
+copying to: /home/smc/epic-data/data_55/raw/flow/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P18/P18_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P18
+copying to: /home/smc/epic-data/data_55/raw/flow/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P18/P18_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P18
+copying to: /home/smc/epic-data/data_55/raw/flow/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P18/P18_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P18
+copying to: /home/smc/epic-data/data_55/raw/flow/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P18/P18_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P18
+copying to: /home/smc/epic-data/data_55/raw/flow/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P18/P18_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P18
+copying to: /home/smc/epic-data/data_55/raw/flow/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P18/P18_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P18
+copying to: /home/smc/epic-data/data_55/raw/flow/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P18/P18_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P18
+copying to: /home/smc/epic-data/data_55/raw/flow/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P18/P18_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P18
+copying to: /home/smc/epic-data/data_55/raw/flow/P18
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P19/P19_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P19
+copying to: /home/smc/epic-data/data_55/raw/flow/P19
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P19/P19_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P19
+copying to: /home/smc/epic-data/data_55/raw/flow/P19
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P20/P20_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P20
+copying to: /home/smc/epic-data/data_55/raw/flow/P20
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P20/P20_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P20
+copying to: /home/smc/epic-data/data_55/raw/flow/P20
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P20/P20_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P20
+copying to: /home/smc/epic-data/data_55/raw/flow/P20
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P21/P21_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P21
+copying to: /home/smc/epic-data/data_55/raw/flow/P21
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P22/P22_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P22
+copying to: /home/smc/epic-data/data_55/raw/flow/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P22/P22_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P22
+copying to: /home/smc/epic-data/data_55/raw/flow/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P22/P22_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P22
+copying to: /home/smc/epic-data/data_55/raw/flow/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P22/P22_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P22
+copying to: /home/smc/epic-data/data_55/raw/flow/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P23/P23_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P23
+copying to: /home/smc/epic-data/data_55/raw/flow/P23
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P24/P24_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P24
+copying to: /home/smc/epic-data/data_55/raw/flow/P24
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P25/P25_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P25
+copying to: /home/smc/epic-data/data_55/raw/flow/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P25/P25_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P25
+copying to: /home/smc/epic-data/data_55/raw/flow/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P25/P25_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P25
+copying to: /home/smc/epic-data/data_55/raw/flow/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P26/P26_30.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P26/P26_31.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P26/P26_32.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P26/P26_33.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P26/P26_34.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P26/P26_35.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P26/P26_36.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P26/P26_37.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P26/P26_38.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P26/P26_39.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P26/P26_40.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P26/P26_41.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P27/P27_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P27
+copying to: /home/smc/epic-data/data_55/raw/flow/P27
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P28/P28_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P28/P28_16.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P28/P28_17.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P28/P28_18.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P28/P28_19.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P28/P28_20.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P28/P28_21.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P28/P28_22.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P28/P28_23.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P28/P28_24.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P28/P28_25.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P28/P28_26.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P29/P29_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P29
+copying to: /home/smc/epic-data/data_55/raw/flow/P29
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P29/P29_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P29
+copying to: /home/smc/epic-data/data_55/raw/flow/P29
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P30/P30_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P30
+copying to: /home/smc/epic-data/data_55/raw/flow/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P30/P30_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P30
+copying to: /home/smc/epic-data/data_55/raw/flow/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P30/P30_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P30
+copying to: /home/smc/epic-data/data_55/raw/flow/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P31/P31_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P31
+copying to: /home/smc/epic-data/data_55/raw/flow/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P31/P31_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P31
+copying to: /home/smc/epic-data/data_55/raw/flow/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P31/P31_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P31
+copying to: /home/smc/epic-data/data_55/raw/flow/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P32/P32_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P32
+copying to: /home/smc/epic-data/data_55/raw/flow/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P32/P32_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P32
+copying to: /home/smc/epic-data/data_55/raw/flow/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P32/P32_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P32
+copying to: /home/smc/epic-data/data_55/raw/flow/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P32/P32_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P32
+copying to: /home/smc/epic-data/data_55/raw/flow/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P32/P32_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P32
+copying to: /home/smc/epic-data/data_55/raw/flow/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P32/P32_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P32
+copying to: /home/smc/epic-data/data_55/raw/flow/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P32/P32_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P32
+copying to: /home/smc/epic-data/data_55/raw/flow/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P32/P32_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P32
+copying to: /home/smc/epic-data/data_55/raw/flow/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P32/P32_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P32
+copying to: /home/smc/epic-data/data_55/raw/flow/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/test/P32/P32_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P32
+copying to: /home/smc/epic-data/data_55/raw/flow/P32
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P01/P01_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P01/P01_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P01/P01_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P01/P01_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P01/P01_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P01/P01_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P01/P01_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P01/P01_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P01/P01_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P01/P01_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P01/P01_16.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P01/P01_17.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P01/P01_18.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P01/P01_19.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P01
+copying to: /home/smc/epic-data/data_55/raw/flow/P01
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P02/P02_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P02
+copying to: /home/smc/epic-data/data_55/raw/flow/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P02/P02_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P02
+copying to: /home/smc/epic-data/data_55/raw/flow/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P02/P02_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P02
+copying to: /home/smc/epic-data/data_55/raw/flow/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P02/P02_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P02
+copying to: /home/smc/epic-data/data_55/raw/flow/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P02/P02_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P02
+copying to: /home/smc/epic-data/data_55/raw/flow/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P02/P02_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P02
+copying to: /home/smc/epic-data/data_55/raw/flow/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P02/P02_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P02
+copying to: /home/smc/epic-data/data_55/raw/flow/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P02/P02_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P02
+copying to: /home/smc/epic-data/data_55/raw/flow/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P02/P02_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P02
+copying to: /home/smc/epic-data/data_55/raw/flow/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P02/P02_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P02
+copying to: /home/smc/epic-data/data_55/raw/flow/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P02/P02_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P02
+copying to: /home/smc/epic-data/data_55/raw/flow/P02
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_16.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_17.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_18.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_19.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_20.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_27.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P03/P03_28.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P03
+copying to: /home/smc/epic-data/data_55/raw/flow/P03
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_16.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_17.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_18.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_19.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_20.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_21.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_22.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P04/P04_23.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P04
+copying to: /home/smc/epic-data/data_55/raw/flow/P04
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P05/P05_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P05
+copying to: /home/smc/epic-data/data_55/raw/flow/P05
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P05/P05_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P05
+copying to: /home/smc/epic-data/data_55/raw/flow/P05
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P05/P05_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P05
+copying to: /home/smc/epic-data/data_55/raw/flow/P05
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P05/P05_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P05
+copying to: /home/smc/epic-data/data_55/raw/flow/P05
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P05/P05_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P05
+copying to: /home/smc/epic-data/data_55/raw/flow/P05
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P05/P05_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P05
+copying to: /home/smc/epic-data/data_55/raw/flow/P05
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P05/P05_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P05
+copying to: /home/smc/epic-data/data_55/raw/flow/P05
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P06/P06_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P06
+copying to: /home/smc/epic-data/data_55/raw/flow/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P06/P06_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P06
+copying to: /home/smc/epic-data/data_55/raw/flow/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P06/P06_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P06
+copying to: /home/smc/epic-data/data_55/raw/flow/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P06/P06_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P06
+copying to: /home/smc/epic-data/data_55/raw/flow/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P06/P06_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P06
+copying to: /home/smc/epic-data/data_55/raw/flow/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P06/P06_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P06
+copying to: /home/smc/epic-data/data_55/raw/flow/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P06/P06_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P06
+copying to: /home/smc/epic-data/data_55/raw/flow/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P06/P06_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P06
+copying to: /home/smc/epic-data/data_55/raw/flow/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P06/P06_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P06
+copying to: /home/smc/epic-data/data_55/raw/flow/P06
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P07/P07_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P07
+copying to: /home/smc/epic-data/data_55/raw/flow/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P07/P07_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P07
+copying to: /home/smc/epic-data/data_55/raw/flow/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P07/P07_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P07
+copying to: /home/smc/epic-data/data_55/raw/flow/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P07/P07_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P07
+copying to: /home/smc/epic-data/data_55/raw/flow/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P07/P07_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P07
+copying to: /home/smc/epic-data/data_55/raw/flow/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P07/P07_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P07
+copying to: /home/smc/epic-data/data_55/raw/flow/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P07/P07_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P07
+copying to: /home/smc/epic-data/data_55/raw/flow/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P07/P07_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P07
+copying to: /home/smc/epic-data/data_55/raw/flow/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P07/P07_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P07
+copying to: /home/smc/epic-data/data_55/raw/flow/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P07/P07_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P07
+copying to: /home/smc/epic-data/data_55/raw/flow/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P07/P07_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P07
+copying to: /home/smc/epic-data/data_55/raw/flow/P07
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_18.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_19.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_20.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_21.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_22.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_23.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_24.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_25.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_26.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_27.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P08/P08_28.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P08
+copying to: /home/smc/epic-data/data_55/raw/flow/P08
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P10/P10_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P10
+copying to: /home/smc/epic-data/data_55/raw/flow/P10
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P10/P10_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P10
+copying to: /home/smc/epic-data/data_55/raw/flow/P10
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P10/P10_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P10
+copying to: /home/smc/epic-data/data_55/raw/flow/P10
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P12/P12_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P12
+copying to: /home/smc/epic-data/data_55/raw/flow/P12
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P12/P12_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P12
+copying to: /home/smc/epic-data/data_55/raw/flow/P12
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P12/P12_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P12
+copying to: /home/smc/epic-data/data_55/raw/flow/P12
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P12/P12_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P12
+copying to: /home/smc/epic-data/data_55/raw/flow/P12
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P12/P12_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P12
+copying to: /home/smc/epic-data/data_55/raw/flow/P12
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P12/P12_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P12
+copying to: /home/smc/epic-data/data_55/raw/flow/P12
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P13/P13_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P13
+copying to: /home/smc/epic-data/data_55/raw/flow/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P13/P13_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P13
+copying to: /home/smc/epic-data/data_55/raw/flow/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P13/P13_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P13
+copying to: /home/smc/epic-data/data_55/raw/flow/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P13/P13_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P13
+copying to: /home/smc/epic-data/data_55/raw/flow/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P13/P13_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P13
+copying to: /home/smc/epic-data/data_55/raw/flow/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P13/P13_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P13
+copying to: /home/smc/epic-data/data_55/raw/flow/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P13/P13_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P13
+copying to: /home/smc/epic-data/data_55/raw/flow/P13
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P14/P14_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P14
+copying to: /home/smc/epic-data/data_55/raw/flow/P14
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P14/P14_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P14
+copying to: /home/smc/epic-data/data_55/raw/flow/P14
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P14/P14_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P14
+copying to: /home/smc/epic-data/data_55/raw/flow/P14
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P14/P14_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P14
+copying to: /home/smc/epic-data/data_55/raw/flow/P14
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P14/P14_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P14
+copying to: /home/smc/epic-data/data_55/raw/flow/P14
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P14/P14_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P14
+copying to: /home/smc/epic-data/data_55/raw/flow/P14
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P14/P14_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P14
+copying to: /home/smc/epic-data/data_55/raw/flow/P14
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P15/P15_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P15
+copying to: /home/smc/epic-data/data_55/raw/flow/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P15/P15_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P15
+copying to: /home/smc/epic-data/data_55/raw/flow/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P15/P15_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P15
+copying to: /home/smc/epic-data/data_55/raw/flow/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P15/P15_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P15
+copying to: /home/smc/epic-data/data_55/raw/flow/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P15/P15_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P15
+copying to: /home/smc/epic-data/data_55/raw/flow/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P15/P15_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P15
+copying to: /home/smc/epic-data/data_55/raw/flow/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P15/P15_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P15
+copying to: /home/smc/epic-data/data_55/raw/flow/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P15/P15_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P15
+copying to: /home/smc/epic-data/data_55/raw/flow/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P15/P15_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P15
+copying to: /home/smc/epic-data/data_55/raw/flow/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P15/P15_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P15
+copying to: /home/smc/epic-data/data_55/raw/flow/P15
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P16/P16_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P16
+copying to: /home/smc/epic-data/data_55/raw/flow/P16
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P16/P16_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P16
+copying to: /home/smc/epic-data/data_55/raw/flow/P16
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P16/P16_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P16
+copying to: /home/smc/epic-data/data_55/raw/flow/P16
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P17/P17_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P17
+copying to: /home/smc/epic-data/data_55/raw/flow/P17
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P17/P17_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P17
+copying to: /home/smc/epic-data/data_55/raw/flow/P17
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P17/P17_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P17
+copying to: /home/smc/epic-data/data_55/raw/flow/P17
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P19/P19_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P19
+copying to: /home/smc/epic-data/data_55/raw/flow/P19
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P19/P19_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P19
+copying to: /home/smc/epic-data/data_55/raw/flow/P19
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P19/P19_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P19
+copying to: /home/smc/epic-data/data_55/raw/flow/P19
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P19/P19_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P19
+copying to: /home/smc/epic-data/data_55/raw/flow/P19
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P20/P20_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P20
+copying to: /home/smc/epic-data/data_55/raw/flow/P20
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P20/P20_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P20
+copying to: /home/smc/epic-data/data_55/raw/flow/P20
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P20/P20_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P20
+copying to: /home/smc/epic-data/data_55/raw/flow/P20
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P20/P20_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P20
+copying to: /home/smc/epic-data/data_55/raw/flow/P20
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P21/P21_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P21
+copying to: /home/smc/epic-data/data_55/raw/flow/P21
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P21/P21_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P21
+copying to: /home/smc/epic-data/data_55/raw/flow/P21
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P21/P21_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P21
+copying to: /home/smc/epic-data/data_55/raw/flow/P21
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P22/P22_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P22
+copying to: /home/smc/epic-data/data_55/raw/flow/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P22/P22_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P22
+copying to: /home/smc/epic-data/data_55/raw/flow/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P22/P22_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P22
+copying to: /home/smc/epic-data/data_55/raw/flow/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P22/P22_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P22
+copying to: /home/smc/epic-data/data_55/raw/flow/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P22/P22_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P22
+copying to: /home/smc/epic-data/data_55/raw/flow/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P22/P22_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P22
+copying to: /home/smc/epic-data/data_55/raw/flow/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P22/P22_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P22
+copying to: /home/smc/epic-data/data_55/raw/flow/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P22/P22_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P22
+copying to: /home/smc/epic-data/data_55/raw/flow/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P22/P22_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P22
+copying to: /home/smc/epic-data/data_55/raw/flow/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P22/P22_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P22
+copying to: /home/smc/epic-data/data_55/raw/flow/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P22/P22_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P22
+copying to: /home/smc/epic-data/data_55/raw/flow/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P22/P22_16.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P22
+copying to: /home/smc/epic-data/data_55/raw/flow/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P22/P22_17.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P22
+copying to: /home/smc/epic-data/data_55/raw/flow/P22
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P23/P23_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P23
+copying to: /home/smc/epic-data/data_55/raw/flow/P23
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P23/P23_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P23
+copying to: /home/smc/epic-data/data_55/raw/flow/P23
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P23/P23_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P23
+copying to: /home/smc/epic-data/data_55/raw/flow/P23
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P23/P23_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P23
+copying to: /home/smc/epic-data/data_55/raw/flow/P23
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P24/P24_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P24
+copying to: /home/smc/epic-data/data_55/raw/flow/P24
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P24/P24_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P24
+copying to: /home/smc/epic-data/data_55/raw/flow/P24
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P24/P24_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P24
+copying to: /home/smc/epic-data/data_55/raw/flow/P24
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P24/P24_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P24
+copying to: /home/smc/epic-data/data_55/raw/flow/P24
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P24/P24_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P24
+copying to: /home/smc/epic-data/data_55/raw/flow/P24
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P24/P24_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P24
+copying to: /home/smc/epic-data/data_55/raw/flow/P24
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P24/P24_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P24
+copying to: /home/smc/epic-data/data_55/raw/flow/P24
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P24/P24_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P24
+copying to: /home/smc/epic-data/data_55/raw/flow/P24
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P25/P25_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P25
+copying to: /home/smc/epic-data/data_55/raw/flow/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P25/P25_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P25
+copying to: /home/smc/epic-data/data_55/raw/flow/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P25/P25_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P25
+copying to: /home/smc/epic-data/data_55/raw/flow/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P25/P25_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P25
+copying to: /home/smc/epic-data/data_55/raw/flow/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P25/P25_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P25
+copying to: /home/smc/epic-data/data_55/raw/flow/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P25/P25_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P25
+copying to: /home/smc/epic-data/data_55/raw/flow/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P25/P25_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P25
+copying to: /home/smc/epic-data/data_55/raw/flow/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P25/P25_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P25
+copying to: /home/smc/epic-data/data_55/raw/flow/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P25/P25_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P25
+copying to: /home/smc/epic-data/data_55/raw/flow/P25
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_15.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_16.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_17.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_18.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_19.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_20.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_21.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_22.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_23.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_24.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_25.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_26.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_27.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_28.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P26/P26_29.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P26
+copying to: /home/smc/epic-data/data_55/raw/flow/P26
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P27/P27_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P27
+copying to: /home/smc/epic-data/data_55/raw/flow/P27
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P27/P27_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P27
+copying to: /home/smc/epic-data/data_55/raw/flow/P27
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P27/P27_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P27
+copying to: /home/smc/epic-data/data_55/raw/flow/P27
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P27/P27_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P27
+copying to: /home/smc/epic-data/data_55/raw/flow/P27
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P27/P27_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P27
+copying to: /home/smc/epic-data/data_55/raw/flow/P27
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P27/P27_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P27
+copying to: /home/smc/epic-data/data_55/raw/flow/P27
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P28/P28_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P28/P28_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P28/P28_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P28/P28_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P28/P28_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P28/P28_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P28/P28_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P28/P28_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P28/P28_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P28/P28_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P28/P28_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P28/P28_12.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P28/P28_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P28/P28_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P28
+copying to: /home/smc/epic-data/data_55/raw/flow/P28
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P29/P29_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P29
+copying to: /home/smc/epic-data/data_55/raw/flow/P29
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P29/P29_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P29
+copying to: /home/smc/epic-data/data_55/raw/flow/P29
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P29/P29_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P29
+copying to: /home/smc/epic-data/data_55/raw/flow/P29
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P29/P29_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P29
+copying to: /home/smc/epic-data/data_55/raw/flow/P29
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P30/P30_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P30
+copying to: /home/smc/epic-data/data_55/raw/flow/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P30/P30_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P30
+copying to: /home/smc/epic-data/data_55/raw/flow/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P30/P30_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P30
+copying to: /home/smc/epic-data/data_55/raw/flow/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P30/P30_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P30
+copying to: /home/smc/epic-data/data_55/raw/flow/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P30/P30_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P30
+copying to: /home/smc/epic-data/data_55/raw/flow/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P30/P30_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P30
+copying to: /home/smc/epic-data/data_55/raw/flow/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P30/P30_10.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P30
+copying to: /home/smc/epic-data/data_55/raw/flow/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P30/P30_11.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P30
+copying to: /home/smc/epic-data/data_55/raw/flow/P30
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P31/P31_01.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P31
+copying to: /home/smc/epic-data/data_55/raw/flow/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P31/P31_02.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P31
+copying to: /home/smc/epic-data/data_55/raw/flow/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P31/P31_03.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P31
+copying to: /home/smc/epic-data/data_55/raw/flow/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P31/P31_04.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P31
+copying to: /home/smc/epic-data/data_55/raw/flow/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P31/P31_05.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P31
+copying to: /home/smc/epic-data/data_55/raw/flow/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P31/P31_06.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P31
+copying to: /home/smc/epic-data/data_55/raw/flow/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P31/P31_07.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P31
+copying to: /home/smc/epic-data/data_55/raw/flow/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P31/P31_08.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P31
+copying to: /home/smc/epic-data/data_55/raw/flow/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P31/P31_09.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P31
+copying to: /home/smc/epic-data/data_55/raw/flow/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P31/P31_13.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P31
+copying to: /home/smc/epic-data/data_55/raw/flow/P31
 Done.
 
 tar: /home/smc/epic_kitchens/3h91syskeag572hl6tvuovwv4d/frames_rgb_flow/flow/train/P31/P31_14.tar
-copying to: /home/smc/epic_kitchens/epic_55/flow/P31
+copying to: /home/smc/epic-data/data_55/raw/flow/P31
 Done.
 
