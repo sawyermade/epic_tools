@@ -23,25 +23,11 @@ def find_tars(base_dir, reg_str):
 
 	return epic_tup 
 
-def copy_tars(tar_paths, base_dir):
-	# Create base dir if doesnt exist
-	if not os.path.exists(base_dir):
-		os.makedirs(base_dir)
-
+def del_tars(tar_paths):
 	for path in tar_paths:
-		# Gets filename and participant
-		file_name = path.split(os.sep)[-1].split('.')[0]
-		part_name = file_name.split('_')[0]
-
-		# Creates new directory
-		new_dir = os.path.join(base_dir, part_name)
-		print(f'tar: {path}')
-		print(f'copying to: {new_dir}')
-		if not os.path.exists(new_dir):
-			os.makedirs(new_dir)
-
 		# Extract tars to new directory
-		cmd_list = ['cp', path, new_dir]
+		print(f'tar: {path}', end='... ')
+		cmd_list = ['rm', path]
 		subprocess.run(cmd_list)
 		print('Done.\n')
 	
@@ -49,16 +35,15 @@ def copy_tars(tar_paths, base_dir):
 
 def main():
 	# Argument for base directories to search
-	base_dir_input = sys.argv[1]  # 3h91syskeag572hl6tvuovwv4d
-	base_dir_output = sys.argv[2] # Where to extract to
+	base_dir = sys.argv[1]  # epic-data dir
 
 	# Find tar files
 	reg_str = r'^P\d\d_\d\d.tar$'
-	tar_paths, tar_files = find_tars(base_dir_input, reg_str)
+	tar_paths, tar_files = find_tars(base_dir, reg_str)
 	tar_paths.sort()
 
 	# Copy tars
-	copy_tars(tar_paths, base_dir_output)
+	del_tars(tar_paths, base_dir_output)
 
 if __name__ == '__main__':
 	main()
