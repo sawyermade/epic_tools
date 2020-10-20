@@ -43,7 +43,7 @@ def main():
 	tar_paths.sort()
 
 	# Copy tars
-	del_tars(tar_paths, base_dir_output)
+	del_tars(tar_paths)
 
 if __name__ == '__main__':
 	main()
