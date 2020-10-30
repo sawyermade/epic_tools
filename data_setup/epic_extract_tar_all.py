@@ -53,6 +53,9 @@ def extract_tars(tar_paths, base_dir):
 	return True
 
 def main():
+	# Timer
+	time_start = time.time()
+
 	# Directory where all tars were moved in epic_move_tar_all.py
 	base_dir_input = sys.argv[1] 
 
@@ -71,6 +74,15 @@ def main():
 	tar_paths_all = tar_paths_55 + tar_paths_100
 	tar_paths_all.sort()
 	extract_tars(tar_paths_all, base_dir_output)
+
+	# Writes tar counts and time
+	time_end = time.time()
+	time_total = time_end - time_start
+	with open('output_epic_extract_tar_all.txt', 'w') as of:
+		of.write(f'epic 55 tar count   : {len(tar_paths_55)}\n')
+		of.write(f'epic 100 tar count  : {len(tar_paths_100)}\n')
+		of.write(f'epic total tar count: {len(tar_paths_all)}\n')
+		of.write(f'execution time      : {time_total} seconds\n')
 	
 if __name__ == '__main__':
 	main()
