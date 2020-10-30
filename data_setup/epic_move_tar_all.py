@@ -97,7 +97,7 @@ def main():
 	base_dir_output = sys.argv[2]
 
 	# Creates dir paths
-	base_dir_input_55 = os.path.join(base_dir_input, '3h91syskeag572hl6tvuovwv4d')
+	base_dir_input_55 = os.path.join(base_dir_input, '3h91syskeag572hl6tvuovwv4d', 'frames_rgb_flow')
 	base_dir_input_100 = os.path.join(base_dir_input, '2g1n6qdydwa9u22shpxqzp0t8m')
 
 	# Find & move epic 55 tars
