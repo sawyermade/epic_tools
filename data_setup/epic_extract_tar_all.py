@@ -28,7 +28,7 @@ def extract_tars(tar_paths, base_dir):
 	if not os.path.exists(base_dir):
 		os.makedirs(base_dir)
 
-	for path in tar_paths:
+	for i, path in enumerate(tar_paths):
 		# Gets filename and participant
 		file_name = path.split(os.sep)[-1].split('.')[0]
 		part_name = file_name.split('_')[0]
@@ -48,7 +48,8 @@ def extract_tars(tar_paths, base_dir):
 		# Extract tars to new directory
 		cmd_list = ['tar', '-xf', path, '-C', new_dir]
 		subprocess.run(cmd_list)
-		print('Done.\n')
+		print(f'{i+1} tars done.\n')
+
 	
 	return True
 
@@ -70,15 +71,17 @@ def main():
 	reg_str_100 = r'^P\d\d_\d\d\d.tar$'
 	tar_paths_100, _ = find_tars(base_dir_input, reg_str_100)
 
-	# Moves tars
+	# Extracts tars
 	tar_paths_all = tar_paths_55 + tar_paths_100
 	tar_paths_all.sort()
 	extract_tars(tar_paths_all, base_dir_output)
 
-	# Writes tar counts and time
+	# Writes directories, tar counts, and time
 	time_end = time.time()
 	time_total = time_end - time_start
 	with open('output_epic_extract_tar_all.txt', 'w') as of:
+		of.write(f'input dir: {base_dir_input}\n')
+		of.write(f'output dir: {base_dir_output}\n')
 		of.write(f'epic 55 tar count   : {len(tar_paths_55)}\n')
 		of.write(f'epic 100 tar count  : {len(tar_paths_100)}\n')
 		of.write(f'epic total tar count: {len(tar_paths_all)}\n')
