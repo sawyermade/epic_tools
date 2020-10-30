@@ -47,7 +47,7 @@ def move_tars_55(tar_paths, base_dir):
 
 		# Extract tars to new directory
 		cmd_list = ['mv', path, new_dir]
-		subprocess.run(cmd_list)
+		# subprocess.run(cmd_list)
 		print('Done.\n')
 	
 	return True
@@ -80,7 +80,7 @@ def move_tars_100(tar_paths, base_dir):
 
 		# Extract tars to new directory
 		cmd_list = ['mv', path, new_dir]
-		subprocess.run(cmd_list)
+		# subprocess.run(cmd_list)
 		print('Done.\n')
 	
 	return True
