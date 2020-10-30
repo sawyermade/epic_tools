@@ -1,4 +1,4 @@
-import re, os, sys, subprocess
+import re, os, sys, subprocess, time
 
 def find_reg(base_dir, reg):
 	# Walks through directories finding all matching files for regex
