@@ -23,7 +23,7 @@ def find_tars(base_dir, reg_str):
 
 	return epic_tup 
 
-def copy_tars(tar_paths, base_dir):
+def extract_tars(tar_paths, base_dir):
 	# Create base dir if doesnt exist
 	if not os.path.exists(base_dir):
 		os.makedirs(base_dir)
@@ -32,33 +32,45 @@ def copy_tars(tar_paths, base_dir):
 		# Gets filename and participant
 		file_name = path.split(os.sep)[-1].split('.')[0]
 		part_name = file_name.split('_')[0]
+		rgb_flow = path.split(os.sep)[-3]
+
+		if rgb_flow != 'rgb' and rgb_flow != 'flow':
+			print(f'\nERROR: No rgb or flow in {path}\n')
+			sys.exit(0)
 
 		# Creates new directory
-		new_dir = os.path.join(base_dir, part_name)
+		new_dir = os.path.join(base_dir, rgb_flow, part_name, file_name)
 		print(f'tar: {path}')
-		print(f'moving to: {new_dir}')
+		print(f'extracting to: {new_dir}')
 		if not os.path.exists(new_dir):
 			os.makedirs(new_dir)
 
 		# Extract tars to new directory
-		cmd_list = ['mv', path, new_dir]
+		cmd_list = ['tar', '-xf', path, '-C', new_dir]
 		subprocess.run(cmd_list)
 		print('Done.\n')
 	
 	return True
 
 def main():
-	# Argument for base directories to search
-	base_dir_input = sys.argv[1]  # 3h91syskeag572hl6tvuovwv4d
-	base_dir_output = sys.argv[2] # Where to copy to
+	# Directory where all tars were moved in epic_move_tar_all.py
+	base_dir_input = sys.argv[1] 
 
-	# Find tar files
-	reg_str = r'^P\d\d_\d\d.tar$'
-	tar_paths, tar_files = find_tars(base_dir_input, reg_str)
-	tar_paths.sort()
+	# Where to extract to
+	base_dir_output = sys.argv[2]
 
-	# Copy tars
-	copy_tars(tar_paths, base_dir_output)
+	# Find & move epic 55 tars
+	reg_str_55 = r'^P\d\d_\d\d.tar$'
+	tar_paths_55, _ = find_tars(base_dir_input, reg_str_55)
 
+	# Finds & move epic 100 tars
+	reg_str_100 = r'^P\d\d_\d\d\d.tar$'
+	tar_paths_100, _ = find_tars(base_dir_input, reg_str_100)
+
+	# Moves tars
+	tar_paths_all = tar_paths_55 + tar_paths_100
+	tar_paths_all.sort()
+	extract_tars(tar_paths_all, base_dir_output)
+	
 if __name__ == '__main__':
 	main()

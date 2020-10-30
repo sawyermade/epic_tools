@@ -50,7 +50,7 @@ def copy_tars(tar_paths, base_dir):
 def main():
 	# Argument for base directories to search
 	base_dir_input = sys.argv[1]  # 3h91syskeag572hl6tvuovwv4d
-	base_dir_output = sys.argv[2] # Where to extract to
+	base_dir_output = sys.argv[2] # Where to copy to
 
 	# Find tar files
 	reg_str = r'^P\d\d_\d\d.tar$'

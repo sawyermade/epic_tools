@@ -112,10 +112,10 @@ def print_tar_stats(tar_dict):
 
 def main():
 	# Argument for base directories to search
-	base_dir = sys.argv[1]  # 3h91syskeag572hl6tvuovwv4d/frames_rgb_flow
+	base_dir = sys.argv[1]  # 2g1n6qdydwa9u22shpxqzp0t8m
 
 	# Find tar files
-	reg_str = r'^P\d\d_\d\d.tar$'
+	reg_str = r'^P\d\d_\d\d\d.tar$'
 	tar_paths, _ = find_tars(base_dir, reg_str)
 	tar_paths.sort()
 
