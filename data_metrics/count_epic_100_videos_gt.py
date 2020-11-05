@@ -12,7 +12,7 @@ def main():
 			vid = c_list[2]
 			vid_set.add(vid)
 
-		vid_list = sorted(vid_set)
+		vid_list = sorted(vid_set)[:-1]
 		with open(out_file, 'w') as of:
 
 			for vid in vid_list:
