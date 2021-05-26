@@ -1,8 +1,13 @@
-# Mini Set of Epic 55
-Run on subset of train or test rgb frames, 25 to 50 videos
+# Read Gulp
+Write scripts to read gulp and meta data
+** Try without sorting seg_list for time_lengths.py
 
-Run through subset that takes an hour to test.
+# Get object detector to work
+Get object detector working with gulped frames
 
-Write evaluation/scoring code
+# Compare object detector nouns with epic 100 ground truth
+Be able to zero out output vector from TSN/TPN and set top 1 and top k as distributions based on probability from center and comet top k
 
-Gulp and snakemake entire datasets 55 and 100 for action rec
+# Run on epic and score on test set
+
+# Make submission
