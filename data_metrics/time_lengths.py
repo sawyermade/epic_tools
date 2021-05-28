@@ -72,7 +72,7 @@ def main():
 
 	# Print metrics
 	print('Metrics:')
-	print(f'min, max, avg times: {min_time}, {max_time}, {avg_time}')
+	print(f'min, max, avg times: {min_time}, {max_time}, {avg_time}\nTime to run {len(seg_list)} segments: {time.perf_counter() - time_start}s')
 
 	# Creates segment and time dicts
 	out_dict = collections.OrderedDict()

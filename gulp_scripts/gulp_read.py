@@ -6,7 +6,7 @@ def read_gulp(gulp_dir):
 	# Read gulp directory
 	gd = gulpio.GulpDirectory(gulp_dir)
 
-	# Get list of segments from meta data and 3 value stable sort
+	# Get list of segments from meta data and 3 value/level stable sort
 	reg = r'^P([0-9]+)_([0-9]+)_([0-9]+)$'
 	match_list = sorted(
 		[re.match(reg, s) for s in gd.chunk_lookup.keys()], 
