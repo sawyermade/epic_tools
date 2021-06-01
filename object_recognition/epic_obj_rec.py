@@ -77,7 +77,7 @@ def run_inference(model, label_map, gd, seg_list, output_dir, start_seg=-1, stop
 		# print(f'meta:\n{meta}')
 		print(f'Segment {i+1} of {num_segs}: {seg} {len(frames)} frames starting at frame {start_frame} ending at {stop_frame}.')
 
-		# Does every 10th frame
+		# Goes through the frames and saves jsons for each segment
 		for j in tqdm(range(0, len(frames))):
 			# Get frame and convert to tensors
 			frame = frames[j]
@@ -108,13 +108,10 @@ def run_inference(model, label_map, gd, seg_list, output_dir, start_seg=-1, stop
 		# Write json
 		jpath = os.path.join(output_dir, seg + '.json.bz')
 		compress_json.dump(frame_dict, jpath)
+
+		# Write last segment for resuming
 		with open('last_segment.txt', 'w') as fp:
 			fp.write(f'{i}: {seg}')
-		# frame_list = [int(f) for f in frame_dict.keys()]
-		# print(f'start, stop frames: {min(frame_list)}, {max(frame_list)}')
-		# with open(jpath, 'w') as fp:
-		# 	json.dump(seg_dict, fp, indent=4)
-
 
 def main():
 	# Args
