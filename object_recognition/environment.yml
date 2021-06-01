@@ -1,4 +1,4 @@
-name: epic_od
+name: epic-od
 channels:
   - defaults
 dependencies:
@@ -129,4 +129,4 @@ dependencies:
     - opencv-python==4.5.2.52
     - sh==1.14.2
     - tqdm==4.61.0
-prefix: /home/smc/anaconda3/envs/epic_od
+prefix: /home/smc/anaconda3/envs/epic-od

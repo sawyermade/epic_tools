@@ -65,7 +65,7 @@ def run_inference(model, label_map, gd, seg_list, output_dir, start_seg=-1, stop
 	# Loops through segments and frames
 	num_segs = len(seg_list)
 	print(f'\nRunning inference on {num_segs} segments...')
-	for i in range(start_seg:stop_seg):
+	for i in range(start_seg, stop_seg):
 		# Gets segment
 		seg = seg_list[i]
 
