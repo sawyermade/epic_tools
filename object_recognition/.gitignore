@@ -1,4 +1,4 @@
 *.zip
 models
-output
+output*
 last_segment.txt

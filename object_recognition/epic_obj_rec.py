@@ -75,7 +75,7 @@ def run_inference(model, label_map, gd, seg_list, output_dir, start_seg=-1, stop
 		stop_frame = meta['stop_frame']
 		frame_dict = {}
 		# print(f'meta:\n{meta}')
-		print(f'Segment {i+1} of {num_segs}: {seg} {len(frames)} frames starting at frame {start_frame} ending at {stop_frame}.')
+		print(f'Segment {i} of {num_segs - 1}: {seg} {len(frames)} frames starting at frame {start_frame} ending at {stop_frame}.')
 
 		# Goes through the frames and saves jsons for each segment
 		for j in tqdm(range(0, len(frames))):
@@ -115,7 +115,7 @@ def run_inference(model, label_map, gd, seg_list, output_dir, start_seg=-1, stop
 
 def main():
 	# Args
-	arg_names = ['model_path', 'label_map_path', 'gulp_dir', 'output_dir', 'cuda_card']
+	arg_names = ['model_path', 'label_map_path', 'gulp_dir', 'output_dir', 'cuda_card', 'start_seg', 'stop_seg']
 	if len(sys.argv[1:]) == len(arg_names):
 		args = {arg_names[i] : val for i, val in enumerate(sys.argv[1:])}
 	else:
@@ -129,6 +129,9 @@ def main():
 	# Get gulp dir/data and segment list
 	gd, seg_list = read_gulp(args['gulp_dir'])
 
+	# Set GPU number
+	os.environ['CUDA_VISIBLE_DEVICES'] = args['cuda_card']
+
 	# Load saved model
 	model, label_map = load_model(args['model_path'], args['label_map_path'])
 
@@ -136,7 +139,7 @@ def main():
 	time_start = time.perf_counter()
 
 	# Run inference on segments
-	run_inference(model, label_map, gd, seg_list, args['output_dir'])
+	run_inference(model, label_map, gd, seg_list, args['output_dir'], int(args['start_seg']), int(args['stop_seg']))
 
 	# Timer End
 	time_stop = time.perf_counter()
