@@ -1,4 +1,4 @@
-import json, os, sys, gulpio, re
+import json, os, sys, gulpio2 as gulpio, re
 from tqdm import tqdm
 
 def read_gulp(gulp_dir):
