@@ -98,13 +98,16 @@ def main():
 	gulp_dir = sys.argv[1]
 	dets_dir = sys.argv[2]
 	out_dir = sys.argv[3]
+	if len(sys.argv) > 4: 
+		thresh = float(sys.argv[4])
+	else: 
+		thresh = 0.50
 	label_dict = json.load(open('label_map.json'))
-	if len(sys.argv) > 4: thresh = float(sys.argv[4])
-	else: thresh = 0.50
 
 	# Create output dir
 	out_dir = f'{out_dir}-{thresh}'
-	if not os.path.exists(out_dir): os.makedirs(out_dir)
+	if not os.path.exists(out_dir): 
+		os.makedirs(out_dir)
 
 	# Get gulped stuff
 	gd, seg_list = read_gulp(gulp_dir)
