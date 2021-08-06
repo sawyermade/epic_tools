@@ -1,14 +1,5 @@
-import sys, os, numpy as np, time, gulpio, compress_json, re, json, time
+import sys, os, numpy as np, time, gulpio2 as gulpio, compress_json, re, json, time
 from tqdm import tqdm
-
-def get_missing(seg_list, seg_output_list):
-	missing_segs, missing_index = [], []
-	for i, seg in enumerate(seg_list):
-		if not seg in seg_output_list:
-			missing_segs.append(seg)
-			missing_index.append(i)
-
-	return missing_segs, missing_index
 
 def read_gulp(gulp_dir):
 	# Read gulp directory
@@ -24,6 +15,15 @@ def read_gulp(gulp_dir):
 	
 	# Return segment id list and gulp directory
 	return (gd, seg_list)
+
+def get_missing(seg_list, seg_output_list):
+	missing_segs, missing_index = [], []
+	for i, seg in enumerate(seg_list):
+		if not seg in seg_output_list:
+			missing_segs.append(seg)
+			missing_index.append(i)
+
+	return missing_segs, missing_index
 
 def read_dets(dets_dir, seg_list):
 	# Gets json file list from directory
@@ -47,102 +47,87 @@ def read_dets(dets_dir, seg_list):
 		print(f'missing segment detections and indices:\nMissing Segs:\n{missing_segs}\nMissing Indices:\n{missing_index}\n')
 		sys.exit(0)
 	else:
+		print('No segments missing...')
 		return dets_path_list
 
-def thresh_dets(dets_path, thresh=0.50):
+def get_class_freq(dets_path):
 	# Opens detections and gets frames
 	frame_dict = compress_json.load(dets_path)
 	frames = sorted([int(f) for f in frame_dict.keys()])
-	thresh_frame_dict = {}
 	class_freq = [0] * 291
-	
+
 	# Goes through each frames detections
 	for frame in frames:
 		# Gets detection information
 		#dets keys: 'detection_scores', 'detection_boxes', 'num_detections', 'detection_classes'
 		dets = frame_dict[str(frame)]
-		dets_scores = np.asarray(dets['detection_scores'])
 		dets_classes = dets['detection_classes']
-		dets_boxes = dets['detection_boxes']
-		# print(len(dets_classes))
-
-		# Thresholds only dets >= to threshold
-		dets_indices = np.where(dets_scores >= thresh)[0]
-		dets_scores = [v for i, v in enumerate(dets_scores) if i in dets_indices]
-		dets_classes = [v for i, v in enumerate(dets_classes) if i in dets_indices]
-		dets_boxes = [v for i, v in enumerate(dets_boxes) if i in dets_indices]
-
-		# Gets dets center points
-		dets_centers = []
-		for box in dets_boxes:
-			ymin, xmin, ymax, xmax = box
-			cy = ymin + ((ymax - ymin) / 2.0)
-			cx = xmin + ((xmax - xmin) / 2.0)
-			dets_centers.append([cy, cx])
-
-		# Adds to thresh dict
-		thresh_frame_dict[str(frame)] = {
-			'detection_scores' : dets_scores,
-			'detection_classes' : dets_classes,
-			'detection_centers' : dets_centers
-		}
+		# dets_scores = np.asarray(dets['detection_scores'])
+		# dets_boxes = dets['detection_centers']
 
 		# Class frequency
 		for c in dets_classes:
 			class_freq[c] += 1
 
-	return thresh_frame_dict, np.asarray(class_freq)
+	return np.asarray(class_freq)
 
 def main():
 	# Args
 	gulp_dir = sys.argv[1]
 	dets_dir = sys.argv[2]
-	out_dir = sys.argv[3]
-	if len(sys.argv) > 4: 
-		thresh = float(sys.argv[4])
-	else: 
-		thresh = 0.50
-	label_dict = json.load(open('label_map.json'))
+	out_path = sys.argv[3]
 
 	# Create output dir
-	out_dir = f'{out_dir}-{thresh}'
-	if not os.path.exists(out_dir): 
+	out_dir = os.path.split(out_path)[:-1]
+	out_dir = os.path.join(*out_dir)
+	if not out_dir[0] == '' and not os.path.exists(out_dir): 
 		os.makedirs(out_dir)
 
 	# Get gulped stuff
-	_, seg_list = read_gulp(gulp_dir)
-	gd = json.load(open('epic_100_gt-val.json'))
+	gd, seg_list = read_gulp(gulp_dir)
+
+	# Object detector label dict
+	label_dict = json.load(open('label_map.json'))
+
+	# Validation ground truth
+	# with open('epic_100_gt-val.json') as fp:
+	# 	gt_dict = json.load(fp)
+	# 	seg_list = gt_dict.keys()
 
 	# Get dets file list
 	dets_path_list = read_dets(dets_dir, seg_list)
-	print(f'seg_list, dets_path_list length: {len(seg_list)}, {len(dets_path_list)}\n')
+	print(f'seg_list, dets_path_list length: {len(seg_list)}, {len(dets_path_list)}')
 
 	# Timer Start
 	time_start = time.perf_counter()
 
-	# Threshold dets
-	top_1, top_3, top_5 = 0, 0, 0
-	i_list = [(i, dets_path_list[i]) for i in range(len(dets_path_list))]
-	for i, dets_path in tqdm(i_list):
-		# Gets thresholded dets and class freq
-		thresh_frame_dict, class_freq = thresh_dets(dets_path, thresh)
+	# Gets frequency for objects in validation
+	freq_dict = {}
+	# top_1, top_3, top_5 = 0, 0, 0
+	for dets_path in tqdm(dets_path_list):
+		# Gets class freq
+		class_freq = get_class_freq(dets_path)
+
+		# Gets filename and seg id
 		fname = os.path.split(dets_path)[-1]
 		seg_id = fname.replace('.json.bz', '')
 
 		# Compares to ground truth nouns
-		# meta = gd[seg_id]
+		# _, meta = gd[seg_id]
+		# meta = gt_dict[seg_id]
 		# noun_gt = meta['noun']
+		# noun_gt_class = int(meta['noun_class'])
 		noun_dets_classes = np.where(class_freq > 0)[0]
-		noun_dets = [(label_dict[str(i)], class_freq[i]) for i in noun_dets_classes]
-		noun_dets.sort(key=lambda x: x[1], reverse=True)
-		# print(f'Segment: {i}')
-		# print(f'noun_gt: {noun_gt}')
-		# print(f'noun_dets (label, freq): {noun_dets}\n')
+		noun_dets = [[label_dict[str(i)], int(i), int(class_freq[i])] for i in noun_dets_classes]
+		noun_dets.sort(key=lambda x: x[-1], reverse=True)
 
-		# Saves thresholded detections
-		out_path = os.path.join(out_dir, fname)
-		compress_json.dump(thresh_frame_dict, out_path)
-
+		# Adds to dict
+		# freq_dict[seg_id] = {
+		# 	'gt' : [noun_gt, noun_gt_class],
+		# 	'class_freq' : noun_dets
+		# }
+		freq_dict[seg_id] = noun_dets
+		
 		# Top 1, 3, 5 comparison
 		# if len(noun_dets) > 0: 
 		# 	noun_dets_1 = noun_dets[0][0]
@@ -159,10 +144,14 @@ def main():
 		# else:
 		# 	noun_dets_5 = None
 
+	# Save freq dict
+	print(f'Saving file: {out_path}')
+	with open(out_path, 'w') as fp:
+		json.dump(freq_dict, fp, indent=3)
+
 	# Timer End
 	time_stop = time.perf_counter()
-	print(f'Inference time to run: {round(time_stop - time_start, 2)}s')
-
+	print(f'Inference time to run: {round(time_stop - time_start, 2)}s\n')
 
 if __name__ == '__main__':
 	main()

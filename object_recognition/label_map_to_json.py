@@ -12,8 +12,9 @@ def map_to_json(label_map_path, output_path='label_map.json'):
 
 			elif 'name:' in line:
 				names = line.replace('name:', '').strip().strip('\'')
-				names_list = names.split(':')
-				label_dict[cid] = names_list
+				# names_list = names.split(':')
+				# label_dict[cid] = names_list
+				label_dict[cid] = names
 				# print(f'names: {names_list}')
 
 	# Write json
