@@ -34,10 +34,12 @@ def main():
 		parts = os.listdir(part)
 		parts = [d for d in parts if reg.match(d)]
 		parts = [os.path.join(part, d) for d in parts]
+		pid = part.rsplit(os.sep, 1)[-1]
 
 		# Create links
+		symlink_final = os.path.join(symlink_dir, pid, 'rgb_frames')
 		for p in parts:
-			os.system(f'ln -s {p} {symlink_dir}')
+			os.system(f'ln -s {p} {symlink_final}')
 
 
 if __name__ == '__main__':
