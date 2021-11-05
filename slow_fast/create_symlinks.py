@@ -20,11 +20,12 @@ def main():
 	reg_str = r'^P[\d]{2}$'
 	reg = re.compile(reg_str)
 	part_dirs = [d for d in os.listdir(frame_dir) if reg.match(d)]
-	print(part_dirs)
+	# print(part_dirs)
 
+	# Create full absolute dir paths
 	part_paths = [os.path.join(frame_dir, d) for d in part_dirs]
 	part_paths = [d for d in part_paths if os.path.isdir(d)]
-	print(part_paths)
+	# print(part_paths)
 
 	# Create symlinks
 	reg_str = r'^P[\d]{2}_[\d]{2,3}$'
@@ -34,10 +35,14 @@ def main():
 		parts = os.listdir(part)
 		parts = [d for d in parts if reg.match(d)]
 		parts = [os.path.join(part, d) for d in parts]
+
+		# Get participant ID
 		pid = part.rsplit(os.sep, 1)[-1]
 
 		# Create links
 		symlink_final = os.path.join(symlink_dir, pid, 'rgb_frames')
+		if not os.path.exists(symlink_final):
+			os.makedirs(symlink_final)
 		for p in parts:
 			os.system(f'ln -s {p} {symlink_final}')
 
