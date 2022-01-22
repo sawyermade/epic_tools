@@ -63,6 +63,10 @@ def main():
 	# Where to extract to
 	base_dir_output = sys.argv[2]
 
+	# Creates dir paths, comment out if moved tars first
+	base_dir_input_55 = os.path.join(base_dir_input, '3h91syskeag572hl6tvuovwv4d', 'frames_rgb_flow')
+	base_dir_input_100 = os.path.join(base_dir_input, '2g1n6qdydwa9u22shpxqzp0t8m')
+
 	# Find & move epic 55 tars
 	reg_str_55 = r'^P\d\d_\d\d.tar$'
 	tar_paths_55, _ = find_tars(base_dir_input, reg_str_55)
