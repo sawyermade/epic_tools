@@ -69,11 +69,11 @@ def main():
 
 	# Find & move epic 55 tars
 	reg_str_55 = r'^P\d\d_\d\d.tar$'
-	tar_paths_55, _ = find_tars(base_dir_input, reg_str_55)
+	tar_paths_55, _ = find_tars(base_dir_input_55, reg_str_55)
 
 	# Finds & move epic 100 tars
 	reg_str_100 = r'^P\d\d_\d\d\d.tar$'
-	tar_paths_100, _ = find_tars(base_dir_input, reg_str_100)
+	tar_paths_100, _ = find_tars(base_dir_input_100, reg_str_100)
 
 	# Extracts tars
 	tar_paths_all = tar_paths_55 + tar_paths_100
