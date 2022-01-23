@@ -34,14 +34,7 @@ def extract_tars(tar_paths, base_dir):
 		part_name = file_name.split('_')[0]
 		rgb_flow = path.split(os.sep)[-3]
 
-		# if rgb_flow != 'rgb' and rgb_flow != 'flow':
-		# 	print(f'\nERROR: No rgb or flow in {path}\n')
-		# 	sys.exit(0)
-		if rgb_flow == 'rgb_frames':
-			rgb_flow = 'rgb'
-		elif rgb_flow == 'flow_frames':
-			rgb_flow = 'flow'
-		else:
+		if rgb_flow != 'rgb' and rgb_flow != 'flow':
 			print(f'\nERROR: No rgb or flow in {path}\n')
 			sys.exit(0)
 
@@ -70,17 +63,13 @@ def main():
 	# Where to extract to
 	base_dir_output = sys.argv[2]
 
-	# Creates dir paths, comment out if moved tars first
-	base_dir_input_55 = os.path.join(base_dir_input, '3h91syskeag572hl6tvuovwv4d', 'frames_rgb_flow')
-	base_dir_input_100 = os.path.join(base_dir_input, '2g1n6qdydwa9u22shpxqzp0t8m')
-
 	# Find & move epic 55 tars
 	reg_str_55 = r'^P\d\d_\d\d.tar$'
-	tar_paths_55, _ = find_tars(base_dir_input_55, reg_str_55)
+	tar_paths_55, _ = find_tars(base_dir_input, reg_str_55)
 
 	# Finds & move epic 100 tars
 	reg_str_100 = r'^P\d\d_\d\d\d.tar$'
-	tar_paths_100, _ = find_tars(base_dir_input_100, reg_str_100)
+	tar_paths_100, _ = find_tars(base_dir_input, reg_str_100)
 
 	# Extracts tars
 	tar_paths_all = tar_paths_55 + tar_paths_100
