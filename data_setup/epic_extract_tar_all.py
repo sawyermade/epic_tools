@@ -34,7 +34,14 @@ def extract_tars(tar_paths, base_dir):
 		part_name = file_name.split('_')[0]
 		rgb_flow = path.split(os.sep)[-3]
 
-		if rgb_flow != 'rgb' and rgb_flow != 'flow':
+		# if rgb_flow != 'rgb' and rgb_flow != 'flow':
+		# 	print(f'\nERROR: No rgb or flow in {path}\n')
+		# 	sys.exit(0)
+		if rgb_flow == 'rgb_frames':
+			rgb_flow = 'rgb'
+		elif rgb_flow == 'flow_frames':
+			rgb_flow = 'flow'
+		else:
 			print(f'\nERROR: No rgb or flow in {path}\n')
 			sys.exit(0)
 
